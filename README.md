@@ -2,7 +2,7 @@
 
 en este curso aprenderas a programar en python
 
-![Logo de python](imagenes\python.png)
+![Logo de python](https://github.com/IanAguilera/CursoBasicoPython/blob/main/imagenes/python.png)
 
 **requisitos**
 

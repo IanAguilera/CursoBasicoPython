@@ -6,6 +6,8 @@ calificacion = int(calificacion)
 #calificacion < 700
 if calificacion < 700 : 
     print("Por no estudiar") #menor a 700
+elif calificacion == 700 :
+    print("panzazooo")
 elif calificacion > 1000:
     print("mentiroso")
 else :
